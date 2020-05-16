@@ -14,6 +14,7 @@ body {
   color: #FFF;
   border-bottom: solid 4px #627295;
   border-radius: 3px;
+  font-size: 1.3em;
 }
 
 .btn-square:active {
@@ -31,6 +32,7 @@ body {
   color: #FFF;
   border-bottom: solid 4px #801818;
   border-radius: 3px;
+  font-size: 1.3em;
 }
 
 .btn-square2:active {

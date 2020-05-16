@@ -1,0 +1,62 @@
+body {
+  background-color: #FFF;
+  text-align:  center;
+  width: 580px;
+  margin-right: auto;
+  margin-left : auto;
+}
+/*ボタン*/
+.btn-square {
+  display: inline-block;
+  padding: 4em 1em;
+  text-decoration: none;
+  background: #668ad8;/*ボタン色*/
+  color: #FFF;
+  border-bottom: solid 4px #627295;
+  border-radius: 3px;
+}
+
+.btn-square:active {
+  /*ボタンを押したとき*/
+  -webkit-transform: translateY(4px);
+  transform: translateY(4px);/*下に動く*/
+  border-bottom: none;/*線を消す*/
+}
+
+.btn-square2 {
+  display: inline-block;
+  padding: 4em 1em;
+  text-decoration: none;
+  background: #b22222;/*ボタン色*/
+  color: #FFF;
+  border-bottom: solid 4px #801818;
+  border-radius: 3px;
+}
+
+.btn-square2:active {
+  /*ボタンを押したとき*/
+  -webkit-transform: translateY(4px);
+  transform: translateY(4px);/*下に動く*/
+  border-bottom: none;/*線を消す*/
+}
+
+.btn-square3 {
+  display: inline-block;
+  padding: 1em 2em;
+  text-decoration: none;
+  background: #ffa500;/*ボタン色*/
+  color: #FFF;
+  border-bottom: solid 4px #b37400;
+  border-radius: 3px;
+}
+
+.btn-square3:active {
+  /*ボタンを押したとき*/
+  -webkit-transform: translateY(4px);
+  transform: translateY(4px);/*下に動く*/
+  border-bottom: none;/*線を消す*/
+}
+
+.gazou{
+  box-shadow: 10px 5px 10px rgba(0,0,0,0.4);;
+}
